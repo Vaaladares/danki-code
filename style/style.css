@@ -72,7 +72,7 @@ header button:hover {
 
 .onepage {
     display: block;
-    background: url(imagens/hero-bg.jpg);
+    background: url(../imagens/hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
